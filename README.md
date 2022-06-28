@@ -1,5 +1,5 @@
 # transferencia-estilo
- Uma pequena aplicação que busca agrupar os seus pixels e assim, separar cada grupo através de um padrão de preenchimento pré-estabelecido.
+ Uma pequena aplicação que está sendo desenvolvidade pelo grupo Art + Comp, no segmento "transferência de estilo", que busca agrupar os seus pixels com o fim de separar cada grupo através de um padrão de preenchimento pré-estabelecido. 
 
 <hr />
 
@@ -16,7 +16,7 @@
 <img src="https://github.com/MarcosPatrickExe/transferencia-estilo/blob/main/resultados/modelo%201.png" alt="marylin monroe" />
 
 
-<h3> 2 - Definindo a distância de um pixel do outro para 1 (através da sintaxe "g=1"), largura multipliacada por 9 (l*6) e pintando o grupo de pixels com tons de cinza - que é definido a partir da média da sua vizinhança (função "mediaVizinha") pela expressão "(255 - media)/255" - tem-se: </h3>
+<h3> 3 - Definindo a distância de um pixel do outro para 3 ("g=3"), largura multipliacada por 4 (l*4), ativando um contorno de 1 pixel em cada retangulo (rect) e pintando o grupo de pixels com tons de cinza tem-se: </h3>
 <Br />
 
-<img src="" alt="marylin monroe" />
+<img src="https://github.com/MarcosPatrickExe/transferencia-estilo/blob/main/resultados/modelo%203.png" alt="marylin monroe" />

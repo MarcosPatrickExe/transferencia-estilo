@@ -1,5 +1,5 @@
 # transferencia-estilo
- Uma pequena aplicação que está sendo desenvolvidade pelo grupo Art + Comp, no segmento "transferência de estilo", que busca agrupar os seus pixels com o fim de separar cada grupo através de um padrão de preenchimento pré-estabelecido. 
+Uma pequena aplicação que está sendo desenvolvida pelo grupo Art + Comp, no segmento "transferência de estilo", que, resumidamente, busca agrupar os seus pixels com o fim de separar cada grupo através de um padrão de preenchimento pré-estabelecido. Esse padrão irá favorecer a separação de camadas com cores diferentes com o intuito de distinguí-las das demais.
 
 <hr />
 
